@@ -1,0 +1,8 @@
+includeFile("custom_loot/items/junk/creature/gundark_bone_junk.lua")
+includeFile("custom_loot/items/junk/creature/gundark_bone_junk_01.lua")
+includeFile("custom_loot/items/junk/creature/gundark_finger_junk.lua")
+includeFile("custom_loot/items/junk/creature/gundark_jaw_junk.lua")
+includeFile("custom_loot/items/junk/creature/gundark_fang_junk.lua")
+includeFile("custom_loot/items/junk/creature/mailoc_antennae_junk.lua")
+includeFile("custom_loot/items/junk/creature/mailoc_arm_junk.lua")
+includeFile("custom_loot/items/junk/creature/mailoc_gland_junk.lua")

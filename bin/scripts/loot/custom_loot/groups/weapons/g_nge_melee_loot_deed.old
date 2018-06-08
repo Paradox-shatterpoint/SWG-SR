@@ -1,0 +1,62 @@
+g_nge_melee_loot_deed = {
+
+	description = "",
+
+	minimumLevel = 0,
+
+	maximumLevel = 0,
+
+	lootItems = {
+
+		{itemTemplate = "two_handed_sword_battleaxe", weight = 222222},
+		{itemTemplate = "two_handed_sword_blacksun_hack", weight = 222222},
+		{itemTemplate = "two_handed_sword_cleaver", weight = 222222},
+		{itemTemplate = "two_handed_sword_katana", weight = 222222},
+		{itemTemplate = "ep3_loot_necrosis", weight = 222222},
+		{itemTemplate = "emperors_house_loot_deed", weight = 370370},
+		{itemTemplate = "two_handed_sword_maul", weight = 222222},
+		{itemTemplate = "two_handed_sword_scythe", weight = 222222},
+		{itemTemplate = "bestine_quest_sword", weight = 222222},
+		{itemTemplate = "blacksun_razor", weight = 222222},
+		{itemTemplate = "ep3_loot_pestilence", weight = 222222},
+		{itemTemplate = "blasterfist", weight = 222222},
+		{itemTemplate = "ep3_loot_heartstriker", weight = 222222},
+		{itemTemplate = "ep3_loot_poisonspike", weight = 222222},
+		{itemTemplate = "ep3_loot_soulstinger", weight = 222222},
+		{itemTemplate = "ep3_loot_strike", weight = 222222},
+		{itemTemplate = "fan_metal", weight = 222222},
+		{itemTemplate = "lance_avatar_wke_heartlance", weight = 222222},
+		{itemTemplate = "lance_wod_twin_blade", weight = 222222},
+		{itemTemplate = "lance_cryo", weight = 222222},
+		{itemTemplate = "lance_electric_polearm", weight = 222222},
+		{itemTemplate = "lance_kaminoan", weight = 222222},
+		{itemTemplate = "lance_kashyyk", weight = 222222},
+		{itemTemplate = "lance_lightsaber_01", weight = 222222},
+		{itemTemplate = "lance_lightsaber_02", weight = 222222},
+		{itemTemplate = "lance_massassi", weight = 222222},
+		{itemTemplate = "lance_nightsister_legendary", weight = 222222},
+		{itemTemplate = "lance_shock", weight = 222222},
+		{itemTemplate = "lance_staff_janta", weight = 222222},
+		{itemTemplate = "lance_staff_magna_guard", weight = 222222},
+		{itemTemplate = "massassiknuckler", weight = 222222},
+		{itemTemplate = "punch_dagger", weight = 222222},
+		{itemTemplate = "som_2h_sword_massassi", weight = 222222},
+		{itemTemplate = "som_2h_sword_obsidian", weight = 222222},
+		{itemTemplate = "som_sword_obsidian", weight = 222222},
+		{itemTemplate = "sword_lightsaber_one_handed_gcw_s01_gen5", weight = 222222},
+		{itemTemplate = "sword_lightsaber_polearm_gen4_heroic", weight = 222222},
+		{itemTemplate = "sword_mace_junti", weight = 222222},
+		{itemTemplate = "sword_mandalorian", weight = 222222},
+		{itemTemplate = "sword_massassi", weight = 222222},
+		{itemTemplate = "sword_rebel", weight = 222222},
+		{itemTemplate = "victor_baton_gaderiffi", weight = 222222},
+		{itemTemplate = "wod_war_fan", weight = 222222},
+		{itemTemplate = "wookiee_knuckler", weight = 222222},
+		{itemTemplate = "xantha_smasher", weight = 222222},
+		}
+
+}
+
+
+
+addLootGroupTemplate("g_nge_melee_loot_deed", g_nge_melee_loot_deed)
